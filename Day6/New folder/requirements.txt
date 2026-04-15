@@ -1,0 +1,5 @@
+flask
+botbuilder-core
+botbuilder-schema
+asyncio
+gunicorn
